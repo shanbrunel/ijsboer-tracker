@@ -114,7 +114,7 @@ Het icoontje van de ijsbus staat nu op een externe server. Dit moet verplaatst w
 Je hebt `Ijsbus.png` al geüpload in aanpassing 1. Zoek nu in de kaartcode naar deze regel:
 
 ```js
-iconUrl: "https://shansoul.github.io/ijsboer-tracker/Ijsbus.png"
+iconUrl: "https://shanbrunel.github.io/ijsboer-tracker/Ijsbus.png"
 ```
 
 Vervang die door het pad op jullie eigen server, bijvoorbeeld:

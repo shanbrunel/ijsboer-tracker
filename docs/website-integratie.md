@@ -24,7 +24,7 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 }).addTo(map);
 
 const ijsbusIcon = L.icon({
-  iconUrl: "https://shansoul.github.io/ijsboer-tracker/Ijsbus.png",
+  iconUrl: "https://shanbrunel.github.io/ijsboer-tracker/Ijsbus.png",
   iconSize: [116, 66],
   iconAnchor: [58, 66]
 });
@@ -90,6 +90,6 @@ De ijsbus beweegt dan automatisch in een cirkel — zo kan het webteam de kaart 
 De backend staat ingesteld om verzoeken toe te staan van:
 - `https://ijsvantijs.nl`
 - `https://www.ijsvantijs.nl`
-- `https://shansoul.github.io`
+- `https://shanbrunel.github.io`
 
 Wil je de kaart op een ander domein embedden, meld dit dan aan de beheerder.
